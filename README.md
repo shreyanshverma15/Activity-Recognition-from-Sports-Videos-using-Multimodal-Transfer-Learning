@@ -1,4 +1,4 @@
-Enhanced Action Recognition using Multimodal Transfer Learning
+**Enhanced Action Recognition using Multimodal Transfer Learning**
 
 This project implements a Two-Stream (Spatial + Temporal) CNN-LSTM model for human action recognition on the UCF-101 dataset.
 
@@ -52,6 +52,3 @@ Matplotlib
 
 Seaborn
 
-
-# Ignore Colab/Jupyter checkpoints
-.ipynb_checkpoints/
